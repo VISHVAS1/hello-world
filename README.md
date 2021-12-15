@@ -1,4 +1,4 @@
 # hello-world
 My Second Repository
 
-Here i am writing about my self . Not giving full descriptoin but a handfull necessary information.
+Here i am writing about my self . now i am editing what i had written in another file.
